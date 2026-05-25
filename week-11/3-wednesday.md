@@ -1,7 +1,6 @@
 # Week 11 — Wednesday
 
-**Date:**  
-<!-- Fill in the date -->
+**Date:** August 5, 2026
 
 ---
 

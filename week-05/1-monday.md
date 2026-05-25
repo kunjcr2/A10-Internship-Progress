@@ -1,7 +1,6 @@
 # Week 05 — Monday
 
-**Date:**  
-<!-- Fill in the date -->
+**Date:** June 22, 2026
 
 ---
 

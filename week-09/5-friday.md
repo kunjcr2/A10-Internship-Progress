@@ -1,7 +1,6 @@
 # Week 09 — Friday
 
-**Date:**  
-<!-- Fill in the date -->
+**Date:** July 24, 2026
 
 ---
 

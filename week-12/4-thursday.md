@@ -1,7 +1,6 @@
 # Week 12 — Thursday
 
-**Date:**  
-<!-- Fill in the date -->
+**Date:** August 13, 2026
 
 ---
 

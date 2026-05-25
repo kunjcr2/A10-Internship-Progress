@@ -1,7 +1,6 @@
 # Week 07 — Friday
 
-**Date:**  
-<!-- Fill in the date -->
+**Date:** July 10, 2026
 
 ---
 

@@ -1,7 +1,6 @@
 # Week 03 — Thursday
 
-**Date:**  
-<!-- Fill in the date -->
+**Date:** June 11, 2026
 
 ---
 

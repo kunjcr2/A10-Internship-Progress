@@ -1,7 +1,6 @@
 # Week 10 — Friday
 
-**Date:**  
-<!-- Fill in the date -->
+**Date:** July 31, 2026
 
 ---
 

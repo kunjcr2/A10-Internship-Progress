@@ -1,7 +1,6 @@
 # Week 04 — Thursday
 
-**Date:**  
-<!-- Fill in the date -->
+**Date:** June 18, 2026
 
 ---
 

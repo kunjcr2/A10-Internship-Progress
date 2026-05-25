@@ -1,7 +1,6 @@
 # Week 08 — Monday
 
-**Date:**  
-<!-- Fill in the date -->
+**Date:** July 13, 2026
 
 ---
 
