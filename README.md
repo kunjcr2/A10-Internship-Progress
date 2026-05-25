@@ -1,2 +1,5 @@
-# A10-Internship-Progress
-A structured 12-week internship journal tracking daily work, blockers, questions, learnings, and meals. Each day gets its own markdown log, organized by week. Built to stay consistent, reflect on growth, and look back on the journey once it's all done.
+# Internship Journal
+
+This repository tracks daily work logs across a 12-week internship.
+
+Each week is organized in its own folder (`week-01` through `week-12`) containing daily logs (`day-1.md` through `day-5.md`) for tracking progress, blockers, key learnings, and daily reflections.
