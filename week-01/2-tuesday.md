@@ -28,7 +28,7 @@
 ## Key Learnings
 - People are nice - dont get afraid to ask questions.
 - Sean is your buddy - ask bro a bunch of questions.
-- Talk to other interns and engineers, make connections - IT WILL HELP.
+- Talk to other interns and engineers, make connections - IT WILL HELP.`
 
 ## What I Ate
 - **Breakfast:**  Avacado and chips
