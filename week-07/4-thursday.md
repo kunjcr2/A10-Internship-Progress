@@ -7,9 +7,6 @@
 ## What I Worked On
 - 
 
-## Problems / Blockers
-- 
-
 ## Questions I Asked (and Answers I Got)
 - 
 
@@ -21,5 +18,3 @@
 - **Lunch:**  
 
 ---
-
-> _End of day reflection: How do I feel about today?_
