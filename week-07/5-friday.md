@@ -31,4 +31,6 @@
 - **Breakfast:**  protein, bar, cashew, sun, chips, pistachio, mocha
 - **Lunch:**  PURI, that's it.
 
+--> Will train some more models on saturday. wont be a lots of stuff.
+
 ---
